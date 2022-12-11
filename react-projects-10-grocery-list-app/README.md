@@ -1,2 +1,2 @@
-# react-projects-10-grocery-bud
+# react-projects-grocery-bud
 Create a simple grocery list
