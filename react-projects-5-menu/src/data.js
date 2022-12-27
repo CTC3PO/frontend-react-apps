@@ -1,3 +1,4 @@
+// Data for the menu, with title, category, id, price, image and description of the menu item. Category will be used to be mapped to a button so user can categorize the menu items by breakfast or dinner
 const menu = [
     {
       id: 1,
